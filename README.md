@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This repository contains a comprehensive **Meta Ad Performance Dashboard** built using Power BI. This project is designed to analyze, track, and visualize the effectiveness of advertising campaigns run across Meta's primary platforms: Facebook and Instagram. By consolidating complex ad data into an interactive dashboard, it provides clear, actionable insights to help optimize ad spend, improve audience targeting, and maximize Return on Ad Spend (ROAS).
 
+## 🔗 Live Portfolio Link
+Explore the interactive project and full details on my Maven Analytics Portfolio:  
+**[Meta Ad Performance Dashboard - Maven Showcase](https://mavenshowcase.com/project/57536)**
+
 ## 🚀 Key Features
 *   **Platform-Specific Views:** Dedicated dashboard pages for analyzing Facebook and Instagram ad performance independently, allowing for cross-platform comparison.
 *   **Core KPI Tracking:** Real-time monitoring of essential advertising metrics including Impressions, Reach, Clicks, Click-Through Rate (CTR), Cost Per Click (CPC), and Total Conversions.
